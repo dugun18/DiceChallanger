@@ -1,0 +1,31 @@
+body{
+    background-color: #000000;
+}
+h1{
+    color: #34B3F1;
+    font-family: cursive;
+    font-size: 600%;
+    text-decoration: solid;
+    text-shadow: 50%;
+    font-style: italic;
+
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+
+}
+p{
+    color: #EEEEEE;
+    text-align: center;
+    font-size: 300%;
+    text-decoration: underline;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+.img{
+    width: 80%;
+}
